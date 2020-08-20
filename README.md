@@ -1,2 +1,1 @@
-# Pizza
-simple html/css practice
+# pizza
